@@ -3,11 +3,7 @@
 <h3 align="center">Software engineer, backend developer</h3>
 
 
-**BelyaevEI/BelyaevEI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Saprun
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
