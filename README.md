@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Abap Developer, currently working at [Saprun](https://saprun.com/).
+I'm a Backend Developer, currently working at [Saprun](https://saprun.com/).
 
 How to contact me: Just send email to [egor.belyaev95@yandex.ru](mailto:egor.belyaev95@yandex.ru)
 
