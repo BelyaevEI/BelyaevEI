@@ -13,4 +13,6 @@ My education: Master's Degree in 11.03.04 Electronics and nanoelectronics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BelyaevEI&show_icons=true&theme=transparent)
 
+![Metrics](/github-metrics.svg)
+
 ![](https://komarev.com/ghpvc/?username=BelyaevEI&color=blue)
