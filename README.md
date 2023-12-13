@@ -11,8 +11,6 @@ My education: Master's Degree in 11.03.04 Electronics and nanoelectronics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Metrics](https://metrics.lecoq.io/BelyaevEI?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow)
-
 ## CodeWars
 [![codewars](https://www.codewars.com/users/NiceIceEyeS/badges/large)](https://www.codewars.com/users/NiceIceEyeS)
 
