@@ -17,6 +17,6 @@ My education: Master's Degree in 11.03.04 Electronics and nanoelectronics
 [![codewars](https://www.codewars.com/users/NiceIceEyeS/badges/large)](https://www.codewars.com/users/NiceIceEyeS)
 
 ## LeetCode
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Nice1ceEyes=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Nice1ceEyes=KnlnKS&theme=dark)]
 
 ![](https://komarev.com/ghpvc/?username=BelyaevEI&color=blue)
