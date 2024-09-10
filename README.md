@@ -21,4 +21,3 @@ My education: Master's Degree in 11.03.04 Electronics and nanoelectronics
 [![codewars](https://www.codewars.com/users/NiceIceEyeS/badges/large)](https://www.codewars.com/users/NiceIceEyeS)
 
 ![](https://komarev.com/ghpvc/?username=BelyaevEI&color=blue)
-
