@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Backend Developer, currently working at [Severstal-infocom](https://it.severstal.com/).
+I'm a Backend Developer, currently working at [cloud.ru](https://cloud.ru//).
 
 How to contact me: Just send email to [egor.belyaev95@yandex.ru](mailto:egor.belyaev95@yandex.ru)
 
